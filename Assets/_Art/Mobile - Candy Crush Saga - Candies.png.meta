@@ -1,0 +1,3064 @@
+fileFormatVersion: 2
+guid: b2bc1bd131ebceb448f70383fa3a9ec0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7627042682197689923
+    second: Mobile - Candy Crush Saga - Candies_0
+  - first:
+      213: -3339108284908528200
+    second: Mobile - Candy Crush Saga - Candies_1
+  - first:
+      213: 4997450685464569122
+    second: Mobile - Candy Crush Saga - Candies_2
+  - first:
+      213: -6068889638408004480
+    second: Mobile - Candy Crush Saga - Candies_3
+  - first:
+      213: -9176876833401639937
+    second: Mobile - Candy Crush Saga - Candies_4
+  - first:
+      213: 6940942597434848906
+    second: Mobile - Candy Crush Saga - Candies_5
+  - first:
+      213: 8426500669799665344
+    second: Mobile - Candy Crush Saga - Candies_6
+  - first:
+      213: 6350070346108479749
+    second: Mobile - Candy Crush Saga - Candies_7
+  - first:
+      213: 4935910263411564094
+    second: Mobile - Candy Crush Saga - Candies_8
+  - first:
+      213: 4995994248114973739
+    second: Mobile - Candy Crush Saga - Candies_9
+  - first:
+      213: -7594264100565804898
+    second: Mobile - Candy Crush Saga - Candies_10
+  - first:
+      213: -4579093889306986013
+    second: Mobile - Candy Crush Saga - Candies_11
+  - first:
+      213: 5391806060690072626
+    second: Mobile - Candy Crush Saga - Candies_12
+  - first:
+      213: 2233576674400788108
+    second: Mobile - Candy Crush Saga - Candies_13
+  - first:
+      213: 8676881454637972562
+    second: Mobile - Candy Crush Saga - Candies_14
+  - first:
+      213: -1852129042768986821
+    second: Mobile - Candy Crush Saga - Candies_15
+  - first:
+      213: -9212786921777406115
+    second: Mobile - Candy Crush Saga - Candies_16
+  - first:
+      213: -3102474647922845539
+    second: Mobile - Candy Crush Saga - Candies_17
+  - first:
+      213: 3357000650902913151
+    second: Mobile - Candy Crush Saga - Candies_18
+  - first:
+      213: 4564826757749635700
+    second: Mobile - Candy Crush Saga - Candies_19
+  - first:
+      213: -6478770447850040902
+    second: Mobile - Candy Crush Saga - Candies_20
+  - first:
+      213: -3208766759714184297
+    second: Mobile - Candy Crush Saga - Candies_21
+  - first:
+      213: -4371460461319170868
+    second: Mobile - Candy Crush Saga - Candies_22
+  - first:
+      213: -2976579181274591570
+    second: Mobile - Candy Crush Saga - Candies_23
+  - first:
+      213: 3957038895654511201
+    second: Mobile - Candy Crush Saga - Candies_24
+  - first:
+      213: 2029422921145082616
+    second: Mobile - Candy Crush Saga - Candies_25
+  - first:
+      213: 5965933849295630438
+    second: Mobile - Candy Crush Saga - Candies_26
+  - first:
+      213: -3394549196830584182
+    second: Mobile - Candy Crush Saga - Candies_27
+  - first:
+      213: 1984659283627659631
+    second: Mobile - Candy Crush Saga - Candies_28
+  - first:
+      213: -2309070527805750121
+    second: Mobile - Candy Crush Saga - Candies_29
+  - first:
+      213: -8058504593127725670
+    second: Mobile - Candy Crush Saga - Candies_30
+  - first:
+      213: 1536651608146813537
+    second: Mobile - Candy Crush Saga - Candies_31
+  - first:
+      213: 625073180970282989
+    second: Mobile - Candy Crush Saga - Candies_32
+  - first:
+      213: -2154980930208525237
+    second: Mobile - Candy Crush Saga - Candies_33
+  - first:
+      213: 7525686757984312994
+    second: Mobile - Candy Crush Saga - Candies_34
+  - first:
+      213: -168930320930826204
+    second: Mobile - Candy Crush Saga - Candies_35
+  - first:
+      213: 8475125128889817748
+    second: Mobile - Candy Crush Saga - Candies_36
+  - first:
+      213: -2871261569100481139
+    second: Mobile - Candy Crush Saga - Candies_37
+  - first:
+      213: -9098984479692456803
+    second: Mobile - Candy Crush Saga - Candies_38
+  - first:
+      213: -4224503286839713327
+    second: Mobile - Candy Crush Saga - Candies_39
+  - first:
+      213: 7649076093902921551
+    second: Mobile - Candy Crush Saga - Candies_40
+  - first:
+      213: 5932141047482021575
+    second: Mobile - Candy Crush Saga - Candies_41
+  - first:
+      213: 8051812277413882408
+    second: Mobile - Candy Crush Saga - Candies_42
+  - first:
+      213: 4666399918062537429
+    second: Mobile - Candy Crush Saga - Candies_43
+  - first:
+      213: -8997159455093333822
+    second: Mobile - Candy Crush Saga - Candies_44
+  - first:
+      213: 216860278827289931
+    second: Mobile - Candy Crush Saga - Candies_45
+  - first:
+      213: -5829018517252737859
+    second: Mobile - Candy Crush Saga - Candies_46
+  - first:
+      213: -1087788119630267120
+    second: Mobile - Candy Crush Saga - Candies_47
+  - first:
+      213: 389275415136237498
+    second: Mobile - Candy Crush Saga - Candies_48
+  - first:
+      213: 8805763007280004672
+    second: Mobile - Candy Crush Saga - Candies_49
+  - first:
+      213: -2848477360553034789
+    second: Mobile - Candy Crush Saga - Candies_50
+  - first:
+      213: -6000107306716486622
+    second: Mobile - Candy Crush Saga - Candies_51
+  - first:
+      213: 9134594050990519411
+    second: Mobile - Candy Crush Saga - Candies_52
+  - first:
+      213: -5850013816318054815
+    second: Mobile - Candy Crush Saga - Candies_53
+  - first:
+      213: -1016662155951827311
+    second: Mobile - Candy Crush Saga - Candies_54
+  - first:
+      213: 6013289927185268939
+    second: Mobile - Candy Crush Saga - Candies_55
+  - first:
+      213: -5632369336870817814
+    second: Mobile - Candy Crush Saga - Candies_56
+  - first:
+      213: 8354889955755021297
+    second: Mobile - Candy Crush Saga - Candies_57
+  - first:
+      213: 1373495451259971311
+    second: Mobile - Candy Crush Saga - Candies_58
+  - first:
+      213: -5349063006533924247
+    second: Mobile - Candy Crush Saga - Candies_59
+  - first:
+      213: 8367298719128806563
+    second: Mobile - Candy Crush Saga - Candies_60
+  - first:
+      213: 7346467378814838452
+    second: Mobile - Candy Crush Saga - Candies_61
+  - first:
+      213: -1446578936423642155
+    second: Mobile - Candy Crush Saga - Candies_62
+  - first:
+      213: -2456244641347471159
+    second: Mobile - Candy Crush Saga - Candies_63
+  - first:
+      213: -6086426521650346670
+    second: Mobile - Candy Crush Saga - Candies_64
+  - first:
+      213: -365535695600926130
+    second: Mobile - Candy Crush Saga - Candies_65
+  - first:
+      213: -8524140183301193398
+    second: Mobile - Candy Crush Saga - Candies_66
+  - first:
+      213: -2213958634121367904
+    second: Mobile - Candy Crush Saga - Candies_67
+  - first:
+      213: 1531342972051016960
+    second: Mobile - Candy Crush Saga - Candies_68
+  - first:
+      213: 5923684794752432030
+    second: Mobile - Candy Crush Saga - Candies_69
+  - first:
+      213: 4666191594624270512
+    second: Mobile - Candy Crush Saga - Candies_70
+  - first:
+      213: 3831904982217231778
+    second: Mobile - Candy Crush Saga - Candies_71
+  - first:
+      213: 6374438136090936576
+    second: Mobile - Candy Crush Saga - Candies_72
+  - first:
+      213: -2235525446399533615
+    second: Mobile - Candy Crush Saga - Candies_73
+  - first:
+      213: -620111437101752264
+    second: Mobile - Candy Crush Saga - Candies_74
+  - first:
+      213: 3244300156973347582
+    second: Mobile - Candy Crush Saga - Candies_75
+  - first:
+      213: 2859918752577358789
+    second: Mobile - Candy Crush Saga - Candies_76
+  - first:
+      213: -9156247361620772690
+    second: Mobile - Candy Crush Saga - Candies_77
+  - first:
+      213: -5007870833874926925
+    second: Mobile - Candy Crush Saga - Candies_78
+  - first:
+      213: -6374384378867819259
+    second: Mobile - Candy Crush Saga - Candies_79
+  - first:
+      213: 6459697698502466544
+    second: Mobile - Candy Crush Saga - Candies_80
+  - first:
+      213: 3156599693022668388
+    second: Mobile - Candy Crush Saga - Candies_81
+  - first:
+      213: 6105528037299861239
+    second: Mobile - Candy Crush Saga - Candies_82
+  - first:
+      213: -1960479024523591515
+    second: Mobile - Candy Crush Saga - Candies_83
+  - first:
+      213: 4082292692885251913
+    second: Mobile - Candy Crush Saga - Candies_84
+  - first:
+      213: 9079066195508844983
+    second: Mobile - Candy Crush Saga - Candies_85
+  - first:
+      213: 828320268919511535
+    second: Mobile - Candy Crush Saga - Candies_86
+  - first:
+      213: 2593099256817241219
+    second: Mobile - Candy Crush Saga - Candies_87
+  - first:
+      213: 3869723308791803655
+    second: Mobile - Candy Crush Saga - Candies_88
+  - first:
+      213: -8514506897042505891
+    second: Mobile - Candy Crush Saga - Candies_89
+  - first:
+      213: 6226122718911162710
+    second: Mobile - Candy Crush Saga - Candies_90
+  - first:
+      213: 436853733084393697
+    second: Mobile - Candy Crush Saga - Candies_91
+  - first:
+      213: -4439685986563552174
+    second: Mobile - Candy Crush Saga - Candies_92
+  - first:
+      213: 2687684773660596753
+    second: Mobile - Candy Crush Saga - Candies_93
+  - first:
+      213: 1892648460757758109
+    second: Mobile - Candy Crush Saga - Candies_94
+  - first:
+      213: -4033205722745490745
+    second: Mobile - Candy Crush Saga - Candies_95
+  - first:
+      213: 5081359168789502497
+    second: Mobile - Candy Crush Saga - Candies_96
+  - first:
+      213: 7346577642534841317
+    second: Mobile - Candy Crush Saga - Candies_97
+  - first:
+      213: 1774123875673040827
+    second: Mobile - Candy Crush Saga - Candies_98
+  - first:
+      213: 3103422777896396053
+    second: Mobile - Candy Crush Saga - Candies_99
+  - first:
+      213: -4725134675072781044
+    second: Mobile - Candy Crush Saga - Candies_100
+  - first:
+      213: -3705267633268041374
+    second: Mobile - Candy Crush Saga - Candies_101
+  - first:
+      213: -1745021683504332687
+    second: Mobile - Candy Crush Saga - Candies_102
+  - first:
+      213: -7061251256021749156
+    second: Mobile - Candy Crush Saga - Candies_103
+  - first:
+      213: 6934576376358182171
+    second: Mobile - Candy Crush Saga - Candies_104
+  - first:
+      213: -6257467903825744772
+    second: Mobile - Candy Crush Saga - Candies_105
+  - first:
+      213: 9111282963623214488
+    second: Mobile - Candy Crush Saga - Candies_106
+  - first:
+      213: -4368423876359350738
+    second: Mobile - Candy Crush Saga - Candies_107
+  - first:
+      213: 8628346337699684130
+    second: Mobile - Candy Crush Saga - Candies_108
+  - first:
+      213: 7244176892201011451
+    second: Mobile - Candy Crush Saga - Candies_109
+  - first:
+      213: 979185612118972400
+    second: Mobile - Candy Crush Saga - Candies_110
+  - first:
+      213: -1400736004514981795
+    second: Mobile - Candy Crush Saga - Candies_111
+  - first:
+      213: -2336646967586923544
+    second: Mobile - Candy Crush Saga - Candies_112
+  - first:
+      213: -3376369063314171934
+    second: Mobile - Candy Crush Saga - Candies_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 880
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db93dd0271d472690800000000000000
+      internalID: -7627042682197689923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 881
+        width: 157
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd967bc4ba19a1d0800000000000000
+      internalID: -3339108284908528200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 959
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225e5a9bbe28a5540800000000000000
+      internalID: 4997450685464569122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 958
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c54a93709f6cba0800000000000000
+      internalID: -6068889638408004480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 930
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb6595242f25a080800000000000000
+      internalID: -9176876833401639937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 930
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a863b76848e235060800000000000000
+      internalID: 6940942597434848906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_6
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 930
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce0003b6b1f0f470800000000000000
+      internalID: 8426500669799665344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_7
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 933
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509a98ee55bff1850800000000000000
+      internalID: 6350070346108479749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_8
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 978
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ed9d5ab30ef7440800000000000000
+      internalID: 4935910263411564094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_9
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 973
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ca9ca7c46555540800000000000000
+      internalID: 4995994248114973739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_10
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 961
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9816436901cb9690800000000000000
+      internalID: -7594264100565804898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 886
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9f1b66e5ac370c0800000000000000
+      internalID: -4579093889306986013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 887
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234ea319b0b83da40800000000000000
+      internalID: 5391806060690072626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_13
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 925
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ed140c6224ffe10800000000000000
+      internalID: 2233576674400788108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_14
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 836
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cfeddf5b97a6870800000000000000
+      internalID: 8676881454637972562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_15
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 836
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3df197d27aeb46e0800000000000000
+      internalID: -1852129042768986821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_16
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 838
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fd7182b1b952080800000000000000
+      internalID: -9212786921777406115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 831
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9857edcebbc1f4d0800000000000000
+      internalID: -3102474647922845539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 835
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70c2db4e46769e20800000000000000
+      internalID: 3357000650902913151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 737
+        width: 157
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a7ddc20c5895f30800000000000000
+      internalID: 4564826757749635700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 738
+        width: 157
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1999a8a98c616a0800000000000000
+      internalID: -6478770447850040902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 772
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793a72002ab2873d0800000000000000
+      internalID: -3208766759714184297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_22
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 809
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4d7651fd37553c0800000000000000
+      internalID: -4371460461319170868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_23
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 788
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae0e46510111b6d0800000000000000
+      internalID: -2976579181274591570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_27
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 762
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8253569d7324e0d0800000000000000
+      internalID: -3394549196830584182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_28
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 741
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61dec07a1dea8b10800000000000000
+      internalID: 1984659283627659631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_29
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 767
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79480d4c69884ffd0800000000000000
+      internalID: -2309070527805750121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 596
+        width: 155
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95a4c1b4c07a2090800000000000000
+      internalID: -8058504593127725670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 596
+        width: 157
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162af1ffe78435510800000000000000
+      internalID: 1536651608146813537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_32
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 664
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def6b5e0fb4bca800800000000000000
+      internalID: 625073180970282989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 678
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b441e25f248f712e0800000000000000
+      internalID: -2154980930208525237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_34
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 703
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae148ccb3c907860800000000000000
+      internalID: 7525686757984312994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_35
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 714
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4281025a4c6d7adf0800000000000000
+      internalID: -168930320930826204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_36
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 714
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ad67ec661bd9570800000000000000
+      internalID: 8475125128889817748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_37
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 652
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8df884c0da3728d0800000000000000
+      internalID: -2871261569100481139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_38
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 570
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c732ff2d9e9b180800000000000000
+      internalID: -9098984479692456803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 571
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1e27b94ac8f55c0800000000000000
+      internalID: -4224503286839713327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_40
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 609
+        width: 107
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f140d4e2af62a60800000000000000
+      internalID: 7649076093902921551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_41
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 622
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6fda45ad2335250800000000000000
+      internalID: 5932141047482021575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_42
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 623
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a22612b98cdbf60800000000000000
+      internalID: 8051812277413882408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_43
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 534
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da8708700262c040800000000000000
+      internalID: 4666399918062537429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_44
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 534
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c06d93052ba32380800000000000000
+      internalID: -8997159455093333822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 489
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d846d4641720300800000000000000
+      internalID: 216860278827289931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 489
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4f9f1ca8a2b1fa0800000000000000
+      internalID: -5829018517252737859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_47
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 490
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d3c82f77667e0f0800000000000000
+      internalID: -1087788119630267120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 489
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7fcf67debf66500800000000000000
+      internalID: 389275415136237498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_49
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 542
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e3339dcca543a70800000000000000
+      internalID: 8805763007280004672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_50
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 514
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb7e75beec2878d0800000000000000
+      internalID: -2848477360553034789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 477
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22420f8c1365bbca0800000000000000
+      internalID: -6000107306716486622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_52
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 471
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374bfa864e894ce70800000000000000
+      internalID: 9134594050990519411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_53
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 531
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e2c33cd6390dea0800000000000000
+      internalID: -5850013816318054815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 381
+        width: 90
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19698e9d72714e1f0800000000000000
+      internalID: -1016662155951827311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_55
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 386
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc00059345f737350800000000000000
+      internalID: 6013289927185268939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 387
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef23000eedc5d1b0800000000000000
+      internalID: -5632369336870817814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 390
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3d14e062882f370800000000000000
+      internalID: 8354889955755021297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_58
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 476
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe627f8f5d2af0310800000000000000
+      internalID: 1373495451259971311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_59
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 486
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96acc5e398f44c5b0800000000000000
+      internalID: -5349063006533924247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_60
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 445
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4e04b6add9e1470800000000000000
+      internalID: 8367298719128806563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_61
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 466
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6e0446825e3f560800000000000000
+      internalID: 7346467378814838452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_62
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 467
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db08e22f18bcebe0800000000000000
+      internalID: -1446578936423642155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8f60f238aa9edd0800000000000000
+      internalID: -2456244641347471159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_64
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 287
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255c389635ba88ba0800000000000000
+      internalID: -6086426521650346670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 289
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e424bf6b83b5deaf0800000000000000
+      internalID: -365535695600926130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 292
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4103b68aab24b980800000000000000
+      internalID: -8524140183301193398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_67
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 378
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae69c13a507641e0800000000000000
+      internalID: -2213958634121367904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_68
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 378
+        width: 108
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d4466d15c604510800000000000000
+      internalID: 1531342972051016960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_69
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 372
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97f9909fe7253250800000000000000
+      internalID: 5923684794752432030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_70
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 377
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b04e736884a1c040800000000000000
+      internalID: 4666191594624270512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_71
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 350
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8b1e6749ad2530800000000000000
+      internalID: 3831904982217231778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_72
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 371
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005476826bd867850800000000000000
+      internalID: 6374438136090936576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_73
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 279
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd52096371d9f0e0800000000000000
+      internalID: -2235525446399533615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_74
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 278
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830a466feebe467f0800000000000000
+      internalID: -620111437101752264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_75
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 282
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2f321cdc1160d20800000000000000
+      internalID: 3244300156973347582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_76
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 274
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb0ad5f3f870b720800000000000000
+      internalID: 2859918752577358789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_77
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 282
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea87cf659897ee080800000000000000
+      internalID: -9156247361620772690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_78
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 283
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b288d96208708ab0800000000000000
+      internalID: -5007870833874926925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_79
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 304
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd8cb2e23a987a0800000000000000
+      internalID: -6374384378867819259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_80
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 236
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbd5a3f4d475a950800000000000000
+      internalID: 6459697698502466544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46629b842be7ecb20800000000000000
+      internalID: 3156599693022668388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_82
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 187
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f63275c6613bb450800000000000000
+      internalID: 6105528037299861239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_83
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 190
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0caa9d6bafac4e0800000000000000
+      internalID: -1960479024523591515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_84
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 189
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9472994439737a830800000000000000
+      internalID: 4082292692885251913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_85
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 180
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9df831a925ffd70800000000000000
+      internalID: 9079066195508844983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_86
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 180
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9143d55e8ce7b00800000000000000
+      internalID: 828320268919511535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_87
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 185
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ccbe5090a8cf320800000000000000
+      internalID: 2593099256817241219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_88
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 184
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fa59fb8d404b530800000000000000
+      internalID: 3869723308791803655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_89
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 175
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ffa24c61566d980800000000000000
+      internalID: -8514506897042505891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_90
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 216
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65960bc10a1a76650800000000000000
+      internalID: 6226122718911162710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_91
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 148
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e07c4bd724001600800000000000000
+      internalID: 436853733084393697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_92
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 85
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c89902e111362c0800000000000000
+      internalID: -4439685986563552174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 88
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a144acf039c4520800000000000000
+      internalID: 2687684773660596753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 91
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90f7245fb9044a10800000000000000
+      internalID: 1892648460757758109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_95
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 91
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2bea593cc2708c0800000000000000
+      internalID: -4033205722745490745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_96
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 111
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a5fd7ed3d948640800000000000000
+      internalID: 5081359168789502497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_97
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 43
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebad1a217944f560800000000000000
+      internalID: 7346577642534841317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_98
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 84
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7e705e344fe9810800000000000000
+      internalID: 1774123875673040827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_99
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 93
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515ee58e292911b20800000000000000
+      internalID: 3103422777896396053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_100
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 88
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05f7604c03fc6eb0800000000000000
+      internalID: -4725134675072781044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_101
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 81
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2695e4908be349cc0800000000000000
+      internalID: -3705267633268041374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_102
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 81
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170ce5d360078c7e0800000000000000
+      internalID: -1745021683504332687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_103
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 80
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52fa0f0565610e90800000000000000
+      internalID: -7061251256021749156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 17
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d15ac29709c3060800000000000000
+      internalID: 6934576376358182171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_105
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 20
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cee0f48120929a0800000000000000
+      internalID: -6257467903825744772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 7
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d74dee497c17e70800000000000000
+      internalID: 9111282963623214488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 23
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26144d11ad3063c0800000000000000
+      internalID: -4368423876359350738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_108
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 41
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fd1a9774b0eb770800000000000000
+      internalID: 8628346337699684130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_109
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 16
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf80cbd808c788460800000000000000
+      internalID: 7244176892201011451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_110
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 4
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f756835024c69d00800000000000000
+      internalID: 979185612118972400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_111
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 21
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58d8ca76069f8ce0800000000000000
+      internalID: -1400736004514981795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_112
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 16
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebdc7b86ff829fd0800000000000000
+      internalID: -2336646967586923544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Candy Crush Saga - Candies_113
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 16
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e75a86c93ab421d0800000000000000
+      internalID: -3376369063314171934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 33218ab63ef52f44c83a22461dc8853b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Candy Crush Saga - Candies_0: -7627042682197689923
+      Mobile - Candy Crush Saga - Candies_1: -3339108284908528200
+      Mobile - Candy Crush Saga - Candies_10: -7594264100565804898
+      Mobile - Candy Crush Saga - Candies_100: -4725134675072781044
+      Mobile - Candy Crush Saga - Candies_101: -3705267633268041374
+      Mobile - Candy Crush Saga - Candies_102: -1745021683504332687
+      Mobile - Candy Crush Saga - Candies_103: -7061251256021749156
+      Mobile - Candy Crush Saga - Candies_104: 6934576376358182171
+      Mobile - Candy Crush Saga - Candies_105: -6257467903825744772
+      Mobile - Candy Crush Saga - Candies_106: 9111282963623214488
+      Mobile - Candy Crush Saga - Candies_107: -4368423876359350738
+      Mobile - Candy Crush Saga - Candies_108: 8628346337699684130
+      Mobile - Candy Crush Saga - Candies_109: 7244176892201011451
+      Mobile - Candy Crush Saga - Candies_11: -4579093889306986013
+      Mobile - Candy Crush Saga - Candies_110: 979185612118972400
+      Mobile - Candy Crush Saga - Candies_111: -1400736004514981795
+      Mobile - Candy Crush Saga - Candies_112: -2336646967586923544
+      Mobile - Candy Crush Saga - Candies_113: -3376369063314171934
+      Mobile - Candy Crush Saga - Candies_12: 5391806060690072626
+      Mobile - Candy Crush Saga - Candies_13: 2233576674400788108
+      Mobile - Candy Crush Saga - Candies_14: 8676881454637972562
+      Mobile - Candy Crush Saga - Candies_15: -1852129042768986821
+      Mobile - Candy Crush Saga - Candies_16: -9212786921777406115
+      Mobile - Candy Crush Saga - Candies_17: -3102474647922845539
+      Mobile - Candy Crush Saga - Candies_18: 3357000650902913151
+      Mobile - Candy Crush Saga - Candies_19: 4564826757749635700
+      Mobile - Candy Crush Saga - Candies_2: 4997450685464569122
+      Mobile - Candy Crush Saga - Candies_20: -6478770447850040902
+      Mobile - Candy Crush Saga - Candies_21: -3208766759714184297
+      Mobile - Candy Crush Saga - Candies_22: -4371460461319170868
+      Mobile - Candy Crush Saga - Candies_23: -2976579181274591570
+      Mobile - Candy Crush Saga - Candies_27: -3394549196830584182
+      Mobile - Candy Crush Saga - Candies_28: 1984659283627659631
+      Mobile - Candy Crush Saga - Candies_29: -2309070527805750121
+      Mobile - Candy Crush Saga - Candies_3: -6068889638408004480
+      Mobile - Candy Crush Saga - Candies_30: -8058504593127725670
+      Mobile - Candy Crush Saga - Candies_31: 1536651608146813537
+      Mobile - Candy Crush Saga - Candies_32: 625073180970282989
+      Mobile - Candy Crush Saga - Candies_33: -2154980930208525237
+      Mobile - Candy Crush Saga - Candies_34: 7525686757984312994
+      Mobile - Candy Crush Saga - Candies_35: -168930320930826204
+      Mobile - Candy Crush Saga - Candies_36: 8475125128889817748
+      Mobile - Candy Crush Saga - Candies_37: -2871261569100481139
+      Mobile - Candy Crush Saga - Candies_38: -9098984479692456803
+      Mobile - Candy Crush Saga - Candies_39: -4224503286839713327
+      Mobile - Candy Crush Saga - Candies_4: -9176876833401639937
+      Mobile - Candy Crush Saga - Candies_40: 7649076093902921551
+      Mobile - Candy Crush Saga - Candies_41: 5932141047482021575
+      Mobile - Candy Crush Saga - Candies_42: 8051812277413882408
+      Mobile - Candy Crush Saga - Candies_43: 4666399918062537429
+      Mobile - Candy Crush Saga - Candies_44: -8997159455093333822
+      Mobile - Candy Crush Saga - Candies_45: 216860278827289931
+      Mobile - Candy Crush Saga - Candies_46: -5829018517252737859
+      Mobile - Candy Crush Saga - Candies_47: -1087788119630267120
+      Mobile - Candy Crush Saga - Candies_48: 389275415136237498
+      Mobile - Candy Crush Saga - Candies_49: 8805763007280004672
+      Mobile - Candy Crush Saga - Candies_5: 6940942597434848906
+      Mobile - Candy Crush Saga - Candies_50: -2848477360553034789
+      Mobile - Candy Crush Saga - Candies_51: -6000107306716486622
+      Mobile - Candy Crush Saga - Candies_52: 9134594050990519411
+      Mobile - Candy Crush Saga - Candies_53: -5850013816318054815
+      Mobile - Candy Crush Saga - Candies_54: -1016662155951827311
+      Mobile - Candy Crush Saga - Candies_55: 6013289927185268939
+      Mobile - Candy Crush Saga - Candies_56: -5632369336870817814
+      Mobile - Candy Crush Saga - Candies_57: 8354889955755021297
+      Mobile - Candy Crush Saga - Candies_58: 1373495451259971311
+      Mobile - Candy Crush Saga - Candies_59: -5349063006533924247
+      Mobile - Candy Crush Saga - Candies_6: 8426500669799665344
+      Mobile - Candy Crush Saga - Candies_60: 8367298719128806563
+      Mobile - Candy Crush Saga - Candies_61: 7346467378814838452
+      Mobile - Candy Crush Saga - Candies_62: -1446578936423642155
+      Mobile - Candy Crush Saga - Candies_63: -2456244641347471159
+      Mobile - Candy Crush Saga - Candies_64: -6086426521650346670
+      Mobile - Candy Crush Saga - Candies_65: -365535695600926130
+      Mobile - Candy Crush Saga - Candies_66: -8524140183301193398
+      Mobile - Candy Crush Saga - Candies_67: -2213958634121367904
+      Mobile - Candy Crush Saga - Candies_68: 1531342972051016960
+      Mobile - Candy Crush Saga - Candies_69: 5923684794752432030
+      Mobile - Candy Crush Saga - Candies_7: 6350070346108479749
+      Mobile - Candy Crush Saga - Candies_70: 4666191594624270512
+      Mobile - Candy Crush Saga - Candies_71: 3831904982217231778
+      Mobile - Candy Crush Saga - Candies_72: 6374438136090936576
+      Mobile - Candy Crush Saga - Candies_73: -2235525446399533615
+      Mobile - Candy Crush Saga - Candies_74: -620111437101752264
+      Mobile - Candy Crush Saga - Candies_75: 3244300156973347582
+      Mobile - Candy Crush Saga - Candies_76: 2859918752577358789
+      Mobile - Candy Crush Saga - Candies_77: -9156247361620772690
+      Mobile - Candy Crush Saga - Candies_78: -5007870833874926925
+      Mobile - Candy Crush Saga - Candies_79: -6374384378867819259
+      Mobile - Candy Crush Saga - Candies_8: 4935910263411564094
+      Mobile - Candy Crush Saga - Candies_80: 6459697698502466544
+      Mobile - Candy Crush Saga - Candies_81: 3156599693022668388
+      Mobile - Candy Crush Saga - Candies_82: 6105528037299861239
+      Mobile - Candy Crush Saga - Candies_83: -1960479024523591515
+      Mobile - Candy Crush Saga - Candies_84: 4082292692885251913
+      Mobile - Candy Crush Saga - Candies_85: 9079066195508844983
+      Mobile - Candy Crush Saga - Candies_86: 828320268919511535
+      Mobile - Candy Crush Saga - Candies_87: 2593099256817241219
+      Mobile - Candy Crush Saga - Candies_88: 3869723308791803655
+      Mobile - Candy Crush Saga - Candies_89: -8514506897042505891
+      Mobile - Candy Crush Saga - Candies_9: 4995994248114973739
+      Mobile - Candy Crush Saga - Candies_90: 6226122718911162710
+      Mobile - Candy Crush Saga - Candies_91: 436853733084393697
+      Mobile - Candy Crush Saga - Candies_92: -4439685986563552174
+      Mobile - Candy Crush Saga - Candies_93: 2687684773660596753
+      Mobile - Candy Crush Saga - Candies_94: 1892648460757758109
+      Mobile - Candy Crush Saga - Candies_95: -4033205722745490745
+      Mobile - Candy Crush Saga - Candies_96: 5081359168789502497
+      Mobile - Candy Crush Saga - Candies_97: 7346577642534841317
+      Mobile - Candy Crush Saga - Candies_98: 1774123875673040827
+      Mobile - Candy Crush Saga - Candies_99: 3103422777896396053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
