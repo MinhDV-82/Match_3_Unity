@@ -71,7 +71,7 @@ public class EffectManager : GameObjectSpawner
             if (obj.Equals(_effects[effectType][i]))
             {
                 obj.SetActive(false);
-                // Debug.Log("Set act")
+
                 yield break;
             }
         }
@@ -104,7 +104,6 @@ public class EffectManager : GameObjectSpawner
         {
             if (_prefabs[i].name == effectType.ToString())
             {
-                Debug.Log("Dep trai");
                 return _prefabs[i];
             }
         }

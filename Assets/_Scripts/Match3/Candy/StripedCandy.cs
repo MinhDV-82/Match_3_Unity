@@ -1,12 +1,12 @@
 using UnityEngine;
 
-public class StrippedCandy : BaseCandy
+public class StripedCandy : BaseCandy
 {
     [SerializeField] Sprite _horizontalSprite;
     [SerializeField] Sprite _verticalSprite;
     [SerializeField] SpriteRenderer _spriteRenderer;
 
-    [SerializeField] private bool _isHorizontal = false;
+    private bool _isHorizontal = false;
 
     public override void Init(int x, int y, CandyColor candyColor, CandyType candyType, bool isHorizontal)
     {

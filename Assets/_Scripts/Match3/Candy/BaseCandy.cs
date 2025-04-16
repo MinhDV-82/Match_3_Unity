@@ -15,12 +15,16 @@ public abstract class BaseCandy : MonoBehaviour
     public enum CandyType
     {
         Regualar,
-        Spencial
+        Spencial,
+        Boom,
+        Striped,
+        ColorBoom
     }
     protected int _currentX;
     protected int _currentY;
     [SerializeField] protected CandyColor _CandyColor;
     [SerializeField] protected CandyType _candyType;
+    
     public virtual void Init(int x, int y, CandyColor dotColor, CandyType candyType = CandyType.Regualar)
     {
         _currentX = x;
@@ -62,6 +66,9 @@ public abstract class BaseCandy : MonoBehaviour
 
 
     #region Get Set
+    public CandyType GetCurrentType() {
+        return _candyType;
+    }
     public CandyColor GetCurrentCandyColor()
     {
         return _CandyColor;
@@ -70,12 +77,10 @@ public abstract class BaseCandy : MonoBehaviour
     {
         return new Vector2Int(_currentX, _currentY);
     }
-
     public void SetCandyColor(CandyColor CandyColor)
     {
         _CandyColor = CandyColor;
     }
-
     public void SetCurrentPos(int x, int y)
     {
         _currentX = x;

@@ -1,11 +1,10 @@
 using System.Collections.Generic;
-using Unity.Mathematics;
 using UnityEngine;
 using CandyColor = BaseCandy.CandyColor;
 using CandyType = BaseCandy.CandyType;
 public class SpecialCandyManager : MonoBehaviour
 {
-    public List<StrippedCandy> PrefabSpritedCandys;
+    public List<StripedCandy> PrefabSpritedCandys;
     public List<BoomCandy> PrefabBoomCandys;
 
     [SerializeField] Match3 _match3;
@@ -13,21 +12,33 @@ public class SpecialCandyManager : MonoBehaviour
     {
         _match3 = FindFirstObjectByType<Match3>();
     }
-    public bool HaveSpencialCandy(int countCandyRow, int countCandyCol)
+    public bool HaveSpencialCandy(int x, int y, Vector2Int rangeRow, Vector2Int rangeCol, int countCandyRow, int countCandyCol)
     {
-        if (countCandyRow > countCandyCol)
-        {
-            CommonUtils.Swap(ref countCandyRow, ref countCandyCol);
-        }
-
-        return IsBoomCandy(countCandyRow, countCandyCol) || IsSpritedCandy(countCandyRow, countCandyCol);
+        return IsBoomCandy(x, y, rangeRow, rangeCol) || IsSpritedCandy(countCandyRow, countCandyCol);
     }
 
     public BaseCandy GetSpencialCandy(int x, int y, Vector2Int rangeRow, Vector2Int rangeCol, int countCandyRow, int countCandyCol, CandyColor candyColor)
     {
         BaseCandy spencialCandy = null;
 
-        if (IsSpritedCandy(countCandyRow, countCandyCol))
+        if (IsBoomCandy(x, y, rangeRow, rangeCol))
+        {
+            List<Vector2Int> range = GetRangeBoom(x, y, rangeRow, rangeCol);
+            rangeRow = range[0];
+            rangeCol = range[1];
+
+            for (int i = rangeRow.x; i <= rangeRow.y; i++)
+            {
+                if (_match3.CandyTiles[i, y] != null) _match3.CandyTiles[i, y].OnMatch();
+            }
+            for (int j = rangeCol.x; j <= rangeCol.y; j++)
+            {
+                if (_match3.CandyTiles[x, j] != null) _match3.CandyTiles[x, j].OnMatch();
+            }
+
+            spencialCandy = CreateBoomCandy(x, y, candyColor);
+        }
+        else if (IsSpritedCandy(countCandyRow, countCandyCol))
         {
             bool isHorizontal = IsHorizontal(countCandyRow, countCandyCol);
             if (isHorizontal)
@@ -46,60 +57,50 @@ public class SpecialCandyManager : MonoBehaviour
             }
             spencialCandy = CreateSpritedCandy(x, y, candyColor, isHorizontal);
         }
-        else if (IsBoomCandy(countCandyRow, countCandyCol))
-        {
-            if (countCandyRow > countCandyCol)
-            {
-                CommonUtils.Swap(ref countCandyRow, ref countCandyCol);
-            }
-            
-            for (int i = rangeRow.x; i <= rangeRow.y; i++)
-            {
-                if (_match3.CandyTiles[i, y] != null) _match3.CandyTiles[i, y].OnMatch();
-            }
-            for (int j = rangeCol.x; j <= rangeCol.y; j++)
-            {
-                if (_match3.CandyTiles[x, j] != null) _match3.CandyTiles[x, j].OnMatch();
-            }
-
-            spencialCandy = CreateBoomCandy(x, y, candyColor);
-        }
 
         return spencialCandy;
     }
 
-    private StrippedCandy CreateSpritedCandy(int x, int y, CandyColor candyColor, bool isHorizontal)
+    public StripedCandy CreateSpritedCandy(int x, int y, CandyColor candyColor, bool isHorizontal)
     {
-        StrippedCandy prefabStrippedCandy = GetPrefabStrippedCandyByColor(candyColor);
-        StrippedCandy strippedCandy = Instantiate(prefabStrippedCandy, new Vector2(x, y), Quaternion.identity);
-        strippedCandy.transform.name = "SpriteCandy" + x + "" + y;
-        strippedCandy.Init(x, y, candyColor, CandyType.Spencial, isHorizontal);
+        StripedCandy prefabStripedCandy = GetPrefabStripedCandyByColor(candyColor);
+        StripedCandy StripedCandy = Instantiate(prefabStripedCandy, new Vector2(x, y), Quaternion.identity);
+        StripedCandy.transform.name = "SpriteCandy" + x + "" + y;
+        StripedCandy.transform.parent = _match3.transform;
+        StripedCandy.Init(x, y, candyColor, CandyType.Striped, isHorizontal);
 
-        return strippedCandy;
+        return StripedCandy;
     }
 
-    private BoomCandy CreateBoomCandy(int x, int y, CandyColor candyColor)
+    public BoomCandy CreateBoomCandy(int x, int y, CandyColor candyColor)
     {
         BoomCandy prefabBoomCandt = GetPrefabBoomCandyByColor(candyColor);
         BoomCandy boomCandy = Instantiate(prefabBoomCandt, new Vector2(x, y), Quaternion.identity);
         boomCandy.transform.name = "SpriteCandy" + x + "" + y;
-        boomCandy.Init(x, y, candyColor, CandyType.Spencial);
+        boomCandy.transform.parent = _match3.transform;
+        boomCandy.Init(x, y, candyColor, CandyType.Boom);
 
         return boomCandy;
     }
 
-    private BoomCandy GetPrefabBoomCandyByColor(CandyColor candyColor) {
-        foreach (BoomCandy boomCandy in PrefabBoomCandys) {
-            if (boomCandy.GetCurrentCandyColor().Equals(candyColor)) {
+    private BoomCandy GetPrefabBoomCandyByColor(CandyColor candyColor)
+    {
+        foreach (BoomCandy boomCandy in PrefabBoomCandys)
+        {
+            if (boomCandy.GetCurrentCandyColor().Equals(candyColor))
+            {
                 return boomCandy;
             }
         }
         return PrefabBoomCandys[0];
     }
-    private StrippedCandy GetPrefabStrippedCandyByColor(CandyColor candyColor) {
-        foreach (StrippedCandy strippedCandy in PrefabSpritedCandys) {
-            if (strippedCandy.GetCurrentCandyColor().Equals(candyColor)) {
-                return strippedCandy;
+    private StripedCandy GetPrefabStripedCandyByColor(CandyColor candyColor)
+    {
+        foreach (StripedCandy StripedCandy in PrefabSpritedCandys)
+        {
+            if (StripedCandy.GetCurrentCandyColor().Equals(candyColor))
+            {
+                return StripedCandy;
             }
         }
         return PrefabSpritedCandys[0];
@@ -109,15 +110,53 @@ public class SpecialCandyManager : MonoBehaviour
 
     private bool IsSpritedCandy(int countCandyRow, int countCandyCol)
     {
-        return countCandyRow == 4 && countCandyCol == 0 || countCandyCol == 4 && countCandyRow == 0;
+        return countCandyRow >= 4 || countCandyCol >= 4;
     }
     private bool IsHorizontal(int countCandyRow, int countCandyCol)
     {
-        return countCandyRow >= 4 ;
+        return countCandyRow >= 4;
     }
-    private bool IsBoomCandy(int countCandyRow, int countCandyCol)
+    private List<Vector2Int> GetRangeBoom(int x, int y, Vector2Int rangeRow, Vector2Int rangeCol)
     {
-        return countCandyRow >= 3 && countCandyCol >= 3;
+        List<Vector2Int> range = new();
+        int CountInRow = _match3.CountMatchInRow(x, y);
+        int CountInCol = _match3.CountMatchInCol(x, y);
+
+        if (CountInRow >= 3 && CountInCol >= 3)
+        {
+            range.Add(rangeRow);
+            range.Add(rangeCol);
+
+            return range;
+        }
+
+        for (int i = rangeRow.x; i <= rangeRow.y; i++)
+        {
+            int countInCol = _match3.CountMatchInCol(i, y);
+            if (CountInRow >= 3 && countInCol >= 3)
+            {
+                range.Add(rangeRow);
+                range.Add(_match3.GetRangeMatchInCol(i, y));
+
+                return range;
+            }
+        }
+        for (int j = rangeCol.x; j <= rangeCol.y; j++)
+        {
+            int countInRow = _match3.CountMatchInRow(x, j);
+            if (countInRow >= 3 && CountInCol >= 3)
+            {
+                range.Add(_match3.GetRangeMatchInRow(x, j));
+                range.Add(rangeCol);
+                return range;
+            }
+        }
+
+        return range;
+    }
+    private bool IsBoomCandy(int x, int y, Vector2Int rangeRow, Vector2Int rangeCol)
+    {
+        return GetRangeBoom(x, y, rangeRow, rangeCol).Count > 0;
     }
 
 }

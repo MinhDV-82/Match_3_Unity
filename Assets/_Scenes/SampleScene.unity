@@ -1151,11 +1151,11 @@ MonoBehaviour:
   - {fileID: 1462914536349224729, guid: 38e78bfb1e4e58041959c232aade24c8, type: 3}
   PrefabBoomCandys:
   - {fileID: 4416161563867751522, guid: 04f485268fc7d00488fa94034f5259cf, type: 3}
-  - {fileID: 4416161563867751522, guid: 04f485268fc7d00488fa94034f5259cf, type: 3}
-  - {fileID: 4416161563867751522, guid: 04f485268fc7d00488fa94034f5259cf, type: 3}
-  - {fileID: 4416161563867751522, guid: 04f485268fc7d00488fa94034f5259cf, type: 3}
-  - {fileID: 4416161563867751522, guid: 04f485268fc7d00488fa94034f5259cf, type: 3}
-  - {fileID: 4416161563867751522, guid: 04f485268fc7d00488fa94034f5259cf, type: 3}
+  - {fileID: 4416161563867751522, guid: 6be1ea6a6caa5a64794a28b38b34fc6f, type: 3}
+  - {fileID: 4416161563867751522, guid: 59ede5e1afa1d034a8bdb93769c6fc7f, type: 3}
+  - {fileID: 4416161563867751522, guid: a7084ece28a454c45b1e3accbb921d90, type: 3}
+  - {fileID: 4416161563867751522, guid: 980340211b2295941b20b8b3faaf2d46, type: 3}
+  - {fileID: 4416161563867751522, guid: 01e7dee522450e84b942a41e832c8f33, type: 3}
   _match3: {fileID: 1902902979}
 --- !u!1 &1159956819
 GameObject:
@@ -1945,6 +1945,7 @@ MonoBehaviour:
   - {fileID: 5643421933628748652, guid: 1bc278912fb8df64f804cf5203bd98d7, type: 3}
   - {fileID: 662667428653660137, guid: 4735ea38c94519c4cb0a045a0234d27c, type: 3}
   - {fileID: -7842722054422093994, guid: d09771939e8fd454589be188d15d7cb2, type: 3}
+  _state: 2
   _touchController: {fileID: 0}
   _specialCandyManager: {fileID: 0}
 --- !u!4 &1902902980

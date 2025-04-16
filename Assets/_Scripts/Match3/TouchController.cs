@@ -1,7 +1,7 @@
 using System.Collections;
 using DG.Tweening;
 using UnityEngine;
-
+using CandyType = BaseCandy.CandyType;
 public class TouchController : BaseComponetMatch3
 {
     private Vector2Int _firstTouchPosition;
@@ -22,7 +22,7 @@ public class TouchController : BaseComponetMatch3
         match3.CandyTiles[bPos.x, bPos.y].SetCurrentPos(aPos.x, aPos.y);
 
         CommonUtils.Swap(ref match3.CandyTiles[aPos.x, aPos.y], ref match3.CandyTiles[bPos.x, bPos.y]);
-   
+
     }
 
 
@@ -46,16 +46,24 @@ public class TouchController : BaseComponetMatch3
         BaseCandy targetCandy = match3.CandyTiles[targetCandyPos.x, targetCandyPos.y];
         if (!match3.IsValidCandy(firstCandy) || !match3.IsValidCandy(targetCandy)) yield break;
 
-        yield return StartCoroutine(MoveCandy(firstCandy, targetCandy));
+        yield return MoveCandy(firstCandy, targetCandy);
 
-        if (!match3.CanMatch(firstCandyPos.x, firstCandyPos.y) && !match3.CanMatch(targetCandyPos.x, targetCandyPos.y))
+        //! 2 vien keo deu la keo thuong
+        if (firstCandy.GetCurrentType().Equals(CandyType.Regualar) && firstCandy.GetCurrentType().Equals(CandyType.Regualar))
         {
-            yield return StartCoroutine(MoveCandy(firstCandy, targetCandy));
+            if (!match3.CanMatch(firstCandyPos.x, firstCandyPos.y) && !match3.CanMatch(targetCandyPos.x, targetCandyPos.y))
+            {
+                yield return MoveCandy(firstCandy, targetCandy);
+            }
+            else
+            {
+                match3.HandleTouchMatch(firstCandy, targetCandy);
+            }
         }
         else
         {
-            match3.HandleTouchMatch(firstCandy, targetCandy);
-            // match3.HandleMatch();
+            StartCoroutine(CandyCombo.HandleCombo(this, firstCandy, targetCandy));
+            Debug.Log("2 vien keo dac biet");
         }
 
         match3.CompleteMove();

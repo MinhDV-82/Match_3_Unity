@@ -11,8 +11,8 @@ public class BoomCandy : BaseCandy
     public override void ActivateEffect()
     {
         base.ActivateEffect();
-        for (int i = _currentX - 1; i < _currentX + 3; i++) {
-            for (int j = _currentY - 1; j < _currentY + 3; j++) {
+        for (int i = _currentX - 1; i < _currentX + 2; i++) {
+            for (int j = _currentY - 1; j < _currentY + 2; j++) {
                 // Tranh goi bi de quy
                 if (i == _currentX && j == _currentY) continue;
 
